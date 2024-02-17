@@ -2,7 +2,7 @@
 
 ## Summary
 
-This is the data science project with exploration and prediction models on the single dataset, which contains daily observations of average amount of courier partners online and weather conditions.
+This is the data science project with exploration and prediction models on the single dataset, which contains daily observations of average number of courier partners online and weather conditions.
 
 ## Overview
 
